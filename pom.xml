@@ -31,8 +31,9 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.2.9.RELEASE</version>
+      <version>5.3.22</version>
     </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
     <dependency>
@@ -48,12 +49,14 @@
       <version>5.4.22.Final</version>
     </dependency>
 
+
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.21</version>
+      <version>8.0.30</version>
     </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/com.mchange/c3p0 -->
     <dependency>
@@ -66,8 +69,9 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-orm</artifactId>
-      <version>5.2.9.RELEASE</version>
+      <version>5.3.22</version>
     </dependency>
+
 
 
   </dependencies>
